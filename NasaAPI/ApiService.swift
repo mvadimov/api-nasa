@@ -11,7 +11,7 @@ import Combine
 
 class ApiService {
     static let BASE_URL = "https://api.nasa.gov/planetary/apod?api_key="
-    static let API_KEY = "10KxBi1E3ucE9xoDrq6bjrJ4wEoYgclEIEx7aSdX"
+    static let API_KEY = "" // Your Api-Key
     
     func getDataImage() -> AnyPublisher<[DataOfPhoto], AFError> {
         
