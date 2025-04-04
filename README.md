@@ -10,6 +10,7 @@
   <li>Swift</li>
   <li>SwiftUI</li>
   <li>Coco Pods</li>
+  <li>Alamofire</li>
   <li>MVVM Architecture</li>
 </ul>
 
